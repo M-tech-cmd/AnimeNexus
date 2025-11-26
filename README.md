@@ -163,5 +163,3 @@ Smoothly loads additional anime data.
 MIT License © M-tect-cmd
 
 ---
-
-💬 **Need the badges edited? Want a more anime look? Or add demo images? Just tell me!**
