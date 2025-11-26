@@ -4,11 +4,9 @@
 
 ## 📸 Preview
 
-![Hero Section](./images/hero-preview.jpg)
-![Anime List 1](./images/anime-list-1.jpg)
-![Anime List 2](./images/anime-list-2.jpg)
-
-> *(Add these images to your project `/public/images/` folder so they display correctly)*
+![Hero Section](./hero-preview.jpg)
+![Anime List 1](./anime-list-1.jpg)
+![Anime List 2](./anime-list-2.jpg)
 
 AnimeFlow is a **modern Next.js 16** full-stack anime browsing experience featuring:
 
