@@ -4,9 +4,9 @@
 
 ## 📸 Preview
 
-![Hero Section](./images/hero-preview.jpg)
-![Anime List 1](./images/anime-list-1.jpg)
-![Anime List 2](./images/anime-list-2.jpg)
+![image alt](https://github.com/M-tech-cmd/AnimeNexus/blob/597e08619f649db07606e41c9d1b5f1269a94c15/public/images/hero-preview.jpg)
+![image alt](https://github.com/M-tech-cmd/AnimeNexus/blob/597e08619f649db07606e41c9d1b5f1269a94c15/public/images/anime-list-1.jpg)
+![image alt](https://github.com/M-tech-cmd/AnimeNexus/blob/597e08619f649db07606e41c9d1b5f1269a94c15/public/images/anime-list-2.jpg)
 
 AnimeFlow is a **modern Next.js 16** full-stack anime browsing experience featuring:
 
